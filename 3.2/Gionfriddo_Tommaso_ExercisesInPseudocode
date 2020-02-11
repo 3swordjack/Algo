@@ -1,0 +1,10 @@
+1)
+
+Shapes := [rectangle, square, circle]
+
+For (each Shape in Shapes){
+	IF (shape is a square) {
+		Shape Area := SideLength^2
+	}
+}
+

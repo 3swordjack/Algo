@@ -1,0 +1,11 @@
+Liquid Puzzle
+---------------
+
+A) Tip 3L out of the 3L jug into the 5L jug twice stopping when the 5L jug is full leaving 1L in the 3L jug.
+
+B)	1. Fill the 3L jug to full
+	2. Tip 3L jugs contents into 5L jug
+	3. Repeat steps 1-2 stopping pouring when the 5L jug is filled.
+	4. 1L will remain in the 3L jug
+
+C) To my knowledge this is the most efficient method available.
